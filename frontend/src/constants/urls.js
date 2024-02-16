@@ -1,0 +1,1 @@
+export const API_BASE_URL = "https://risk-assessment-wine.vercel.app/api/v1/"
